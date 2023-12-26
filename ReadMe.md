@@ -57,4 +57,3 @@ If you need help, you can open up an issue [Here](https://github.com/Fabricio20/
 
 If you want to modify this, first fork the project, then use IntelliJ GIT tool and import your repository.
 Dependencies are managed by gradle, but Lombok needs a special plugin and the jar on your Path. (Google it)
-
